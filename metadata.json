@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการรายรับรายจ่าย คลาวด์",
+  "description": "เว็บจัดการรายรับรายจ่ายบนระบบคลาวด์ พร้อมสรุปผลรายเดือนและกราฟภาพวิเคราะห์ข้อมูล จัดเก็บข้อมูลด้วย Firebase Cloud Firestore พร้อมเข้าสู่ระบบด้วย Gmail อย่างปลอดภัย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

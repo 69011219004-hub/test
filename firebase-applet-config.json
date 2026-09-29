@@ -1,0 +1,11 @@
+{
+  "projectId": "web-app-c9d3e",
+  "appId": "1:426220525923:web:262be35876c83585cc9b56",
+  "apiKey": "AIzaSyBh9D_hwezIB8_BULzYFRRxB-5cZk6B_I0",
+  "authDomain": "web-app-c9d3e.firebaseapp.com",
+  "databaseURL": "https://web-app-c9d3e-default-rtdb.firebaseio.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "web-app-c9d3e.firebasestorage.app",
+  "messagingSenderId": "426220525923",
+  "measurementId": "G-4VN5MR6ETY"
+}
